@@ -6,7 +6,6 @@
 **GitHub Repository:**  
 https://github.com/will-chh/dsci-522-individual-assignment-quarto-python
 
-**Rendered Report Files:**
-- HTML report: `docs/qmd_example.html`
-- PDF report: `docs/qmd_example.pdf` (attached to this Gradescope submission)
+**GitHub pages:**  
+https://will-chh.github.io/dsci-522-individual-assignment-quarto-python/qmd_example.html
 
